@@ -1,3 +1,8 @@
+---
+name: frontend-design-rules
+description: Apply practical visual design principles when creating or improving frontend interfaces. Use when generating, reviewing, or modifying UI and when better visual hierarchy, spacing, typography, layout, or composition is needed.
+---
+
 # Frontend Design Rules
 
 ## Purpose
