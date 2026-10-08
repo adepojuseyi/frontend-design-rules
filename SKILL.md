@@ -1,32 +1,33 @@
 # Frontend Design Rules
 
-A set of practical design rules for creating and improving frontend interfaces.
-
 ## Purpose
 
-Use these rules when generating, modifying, or reviewing frontend UI.
+Apply practical visual design principles when creating or modifying
+frontend interfaces.
 
-The goal is to produce interfaces with intentional visual hierarchy,
-spacing, typography, layout, and composition rather than relying on
-arbitrary styling decisions.
+## Instructions
 
-## How to Use
+When working on frontend UI:
 
-Before implementing a UI:
-
-1. Understand the purpose of the interface or section.
+1. Identify the purpose and primary goal of the interface.
 2. Identify the design rules relevant to the task.
-3. Apply those rules during the design and implementation.
+3. Apply those rules during implementation.
 4. Review the result against the applicable rules.
 5. Prioritize usability and accessibility when rules conflict.
 
-## Available Rules
+## Rules
 
-- Visual Hierarchy: `rules/visual-hierarchy.md`
+Read and apply the relevant rules from:
 
-## General Principle
+`rules/`
 
-Design decisions should be intentional.
+Currently available:
 
-Do not apply rules mechanically. Use them as principles for making
-better design decisions while considering the context of the interface.
+- `rules/visual-hierarchy.md`
+
+## Important
+
+Do not apply rules mechanically.
+
+Use them as design principles and adapt them to the context of the
+interface.
